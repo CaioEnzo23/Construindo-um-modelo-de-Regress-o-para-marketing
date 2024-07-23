@@ -1,2 +1,2 @@
-Olá mundo
-Isso é uma alteração
+Projeto de Desafio: Construindo um modelo
+de Regressão para marketing
